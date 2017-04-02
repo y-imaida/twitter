@@ -2,7 +2,9 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 .wrapper {
-    margin-bottom: 74px;
+    background-color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 10px;
     padding: 20px 20px 20px 35px;
     .row {
         border-bottom: 1px solid #ccc;
@@ -21,7 +23,7 @@ input[type="submit"].btn-block {
 .page-tweets-top-btn {
     display: none;
     border-radius: 50px;
-    background: #000033;
+    background: #55acee;
     width: 60px;
     height: 60px;
     transition: all 0.3s;
